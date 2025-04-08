@@ -10,4 +10,4 @@ And git pull pyenv-update(https://github.com/pyenv/pyenv-update) to using comman
 
 ## use packages
 
-anaconda, PyTorch, Transformer
+anaconda, PyTorch, Transformer, ollama
